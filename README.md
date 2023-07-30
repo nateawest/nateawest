@@ -6,7 +6,7 @@
 
 <br><br>
 <table>
-<tr><th>Repositories</th>
+<tr><th>Repositories</th><th>Contact Me</th></tr>
 <tr><td>
   
 |Title | Technologies|
@@ -16,3 +16,13 @@
 | [flaskFinancial](https://github.com/nateawest/flaskFinancial) |![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)![Plotly](https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly)|
 | [tweetScrap](https://github.com/nateawest/tweetScrap) |![SQLite3](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite)![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=Selenium)|
 | [flaskServerTwit](https://github.com/nateawest/flaskServerTwit) |![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)![SQLite3](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite)|
+
+</td><td>
+
+<a href="https://www.linkedin.com/in/nathan-west/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+<a href="mailto:na.west@outlook.com">
+  <img src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=microsoft&logoColor=white">
+
+
+</td></tr> </table>

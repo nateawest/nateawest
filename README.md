@@ -12,7 +12,7 @@
 <tr><th>Contact Me</th>
 <tr><td>
 
-<a href="https://www.linkedin.com/in/nathan-west/">
+<a href="https://www.linkedin.com/in/nathan-west-779634282/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 <a href="mailto:na.west@outlook.com">
   <img src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=microsoft&logoColor=white">

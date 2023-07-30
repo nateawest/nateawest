@@ -33,3 +33,6 @@
 
 </td></tr> </table>
 
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=708090&height=100&section=footer"/>
+
